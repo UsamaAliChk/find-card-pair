@@ -5,14 +5,13 @@ import "./Board.css";
 import Card from "../Card/Card";
 
 export default function Board(props) {
-  const [show, setshow] = useState(null);
+  const [show, setshow] = useState(true);
 
   useEffect(() => {
-    setshow(true);
     setTimeout(() => {
       setshow(false);
     }, 3000);
-  }, [props.size, props.restart]);
+  }, [props]);
 
   let CARDS = null;
   if (!show) {

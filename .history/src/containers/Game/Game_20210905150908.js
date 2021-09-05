@@ -13,7 +13,7 @@ export default function Game() {
   const [size, setsize] = useState("6 pairs");
   const [score, setscore] = useState(0);
   const [tries, settries] = useState(0);
-  const [restart, setrestart] = useState(false);
+
   const [guessed, setguessed] = useState([]);
 
   const [images, setimages] = useState([]);
@@ -61,7 +61,6 @@ export default function Game() {
     for (let i = 0; i < oldArray.length; i++) {
       oldArray[i].show = false;
     }
-    setrestart(!restart);
     setguessed([]);
     setselectedImages([]);
     setscore(0);
@@ -115,7 +114,6 @@ export default function Game() {
             setscore={setscore}
             settries={settries}
             tries={tries}
-            restart={restart}
           />
         </div>
         <div style={{ marginLeft: "50px" }}>

@@ -12,7 +12,7 @@ export default function Board(props) {
     setTimeout(() => {
       setshow(false);
     }, 3000);
-  }, [props.size, props.restart]);
+  }, [props.size]);
 
   let CARDS = null;
   if (!show) {
