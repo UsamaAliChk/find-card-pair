@@ -1,0 +1,12 @@
+.UserInput {
+  width: 300px;
+  height: 500px;
+  border: 1px solid #ccc;
+  background-color: white;
+}
+
+.UserInput .Button {
+  background-color: #1890ff;
+  color: white;
+  padding: 5px 10px;
+}

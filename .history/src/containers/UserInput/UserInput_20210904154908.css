@@ -1,0 +1,26 @@
+.UserInput {
+  width: 200px;
+
+  border: 1px solid #ccc;
+  background-color: white;
+  border-radius: 10px;
+  padding-left: 20px;
+  padding-bottom: 50px;
+  text-align: left;
+}
+
+.striaghtLine {
+  border: 1px solid black;
+  width: 100px;
+}
+
+.UserInput h4 {
+  font-size: 20px;
+}
+
+.UserInput .Button {
+  background-color: #1890ff;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+}
