@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/find-card-pair/static/css/main.765cf5b2.chunk.css",
+    "main.js": "/find-card-pair/static/js/main.704385e0.chunk.js",
+    "main.js.map": "/find-card-pair/static/js/main.704385e0.chunk.js.map",
+    "runtime-main.js": "/find-card-pair/static/js/runtime-main.62da33e9.js",
+    "runtime-main.js.map": "/find-card-pair/static/js/runtime-main.62da33e9.js.map",
+    "static/js/2.7e85fa41.chunk.js": "/find-card-pair/static/js/2.7e85fa41.chunk.js",
+    "static/js/2.7e85fa41.chunk.js.map": "/find-card-pair/static/js/2.7e85fa41.chunk.js.map",
+    "static/js/3.44f0eddd.chunk.js": "/find-card-pair/static/js/3.44f0eddd.chunk.js",
+    "static/js/3.44f0eddd.chunk.js.map": "/find-card-pair/static/js/3.44f0eddd.chunk.js.map",
+    "index.html": "/find-card-pair/index.html",
+    "static/css/main.765cf5b2.chunk.css.map": "/find-card-pair/static/css/main.765cf5b2.chunk.css.map",
+    "static/js/2.7e85fa41.chunk.js.LICENSE.txt": "/find-card-pair/static/js/2.7e85fa41.chunk.js.LICENSE.txt",
+    "static/media/pair-1.ebd06d73.jpg": "/find-card-pair/static/media/pair-1.ebd06d73.jpg",
+    "static/media/pair-11.1f47df23.jpg": "/find-card-pair/static/media/pair-11.1f47df23.jpg",
+    "static/media/pair-12.a78f40f6.jpg": "/find-card-pair/static/media/pair-12.a78f40f6.jpg",
+    "static/media/pair-13.069a9c31.jpg": "/find-card-pair/static/media/pair-13.069a9c31.jpg",
+    "static/media/pair-14.bdbfb7ab.jpg": "/find-card-pair/static/media/pair-14.bdbfb7ab.jpg",
+    "static/media/pair-15.8c830193.jpg": "/find-card-pair/static/media/pair-15.8c830193.jpg",
+    "static/media/pair-16.b0bb5707.jpg": "/find-card-pair/static/media/pair-16.b0bb5707.jpg",
+    "static/media/pair-17.057dbca9.jpg": "/find-card-pair/static/media/pair-17.057dbca9.jpg",
+    "static/media/pair-18.31e4e0ae.jpg": "/find-card-pair/static/media/pair-18.31e4e0ae.jpg",
+    "static/media/pair-19.aa658c8f.jpg": "/find-card-pair/static/media/pair-19.aa658c8f.jpg",
+    "static/media/pair-2.02075f6b.jpg": "/find-card-pair/static/media/pair-2.02075f6b.jpg",
+    "static/media/pair-20.c18ce729.jpg": "/find-card-pair/static/media/pair-20.c18ce729.jpg",
+    "static/media/pair-3.1b6c4157.jpg": "/find-card-pair/static/media/pair-3.1b6c4157.jpg",
+    "static/media/pair-4.ee2d5032.jpg": "/find-card-pair/static/media/pair-4.ee2d5032.jpg",
+    "static/media/pair-5.33947ef0.jpg": "/find-card-pair/static/media/pair-5.33947ef0.jpg",
+    "static/media/pair-6.76536994.jpg": "/find-card-pair/static/media/pair-6.76536994.jpg",
+    "static/media/pair-7.7c18fc8f.jpg": "/find-card-pair/static/media/pair-7.7c18fc8f.jpg",
+    "static/media/pair-8.5f31fb53.jpg": "/find-card-pair/static/media/pair-8.5f31fb53.jpg",
+    "static/media/pair-9.d96dc8b0.jpg": "/find-card-pair/static/media/pair-9.d96dc8b0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62da33e9.js",
+    "static/js/2.7e85fa41.chunk.js",
+    "static/css/main.765cf5b2.chunk.css",
+    "static/js/main.704385e0.chunk.js"
+  ]
+}
